@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-28T09:44:24.031-0300</date>
+  <logger>LUCAS ARIEL ALVES DE CARVALHO</logger>
+  <level>FINE</level>
+  <message>File 121210801-LUCAS ARIEL ALVES DE CARVALHO.zip was received. It was sent by LUCAS ARIEL ALVES DE CARVALHO from IP 150.165.42.138 at 28-06-2023 09*44*24</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-28T09:44:54.399-0300</date>
+  <logger>LUCAS ARIEL ALVES DE CARVALHO</logger>
+  <level>FINE</level>
+  <message>File 121210801-LUCAS ARIEL ALVES DE CARVALHO.zip was received. It was sent by LUCAS ARIEL ALVES DE CARVALHO from IP 150.165.42.138 at 28-06-2023 09*44*54</message>
+</record>
